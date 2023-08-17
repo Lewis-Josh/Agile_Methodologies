@@ -1,0 +1,1 @@
+This was a final for a school project which I described the SDLC and analyzed Scrum-Agile Methodology compared to other approaches like Waterfall development. It contains an extensive sprint review for another project we were assigned to develop code for an imaginary travel agency with changing requirements.
